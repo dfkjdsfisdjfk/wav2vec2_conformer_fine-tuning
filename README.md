@@ -21,8 +21,8 @@ ko-spelling-wav2vec2-conformer-del-1s 의 모델 파인튜닝
 <br>
 
 # 성능 개선
-자체 생성 데이터 셋 에서 wer 30% -> wer 14%
-모델 허깅페이스 주소 : https://huggingface.co/nooobedd/wav2vec_custom
+- 자체 생성 데이터 셋 에서 wer 30% -> wer 14%
+- 모델 허깅페이스 주소 : https://huggingface.co/nooobedd/wav2vec_custom
 
 <br>
 
